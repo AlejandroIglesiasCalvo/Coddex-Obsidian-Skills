@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-frontmatter
 description: "Aplicar reglas consistentes de YAML frontmatter en Obsidian: un bloque, claves estÃ¡ndar, fechas YYYY-MM-DD, tags en lista, comillas cuando proceda."
 ---

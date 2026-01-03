@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-safe-changes
 description: "Cambios seguros en archivos del vault: mover, renombrar, editar o eliminar con trazabilidad y recuperacion."
 ---

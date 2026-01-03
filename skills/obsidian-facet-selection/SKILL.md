@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-facet-selection
 description: "Selecciona una faceta de trabajo segun la peticion y registra la decision con fuentes."
 ---

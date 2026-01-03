@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-sop-authoring
 description: "Crear y mantener procedimientos como skills (SKILL.md) con objetivo, cuando usar, pasos y checklist."
 ---

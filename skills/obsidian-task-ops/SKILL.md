@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-task-ops
 description: "Gestionar tareas en notas Markdown de Obsidian (captura, inbox, priorizaciÃ³n, daily/weekly). Respeta el formato existente de tasks."
 ---

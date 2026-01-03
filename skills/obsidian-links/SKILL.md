@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-links
 description: "Crear, validar y reparar wikilinks de Obsidian (links internos, enlaces a secciones, anclas ^bloque). Incluye verificaciÃ³n de existencia."
 ---

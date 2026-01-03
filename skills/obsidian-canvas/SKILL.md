@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-canvas
 description: "Editar o generar archivos de Obsidian Canvas (.canvas JSON) de forma segura: nodos, conexiones, posiciones. Evita corromper el JSON."
 ---

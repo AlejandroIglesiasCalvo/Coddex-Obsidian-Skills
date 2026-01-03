@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-rag-ops
 description: "Ejecuta flujos RAG en Obsidian para responder, resumir, reorganizar o crear notas nuevas con citas trazables."
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-style-profile
 description: "Analiza el estilo de escritura del usuario y genera un perfil con metricas y ejemplos citados."
 ---

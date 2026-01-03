@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-mermaid
 description: "Crear diagramas Mermaid compatibles con Obsidian (flowchart, sequence, gantt). Evita errores comunes y produce diagramas simples y mantenibles."
 ---

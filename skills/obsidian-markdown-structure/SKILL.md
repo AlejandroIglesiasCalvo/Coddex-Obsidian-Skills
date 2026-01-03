@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-markdown-structure
 description: "Estandarizar estructura Markdown en Obsidian sin romper Dataview/Templater ni tablas: headings, listas, bloques de cÃ³digo, separadores."
 ---

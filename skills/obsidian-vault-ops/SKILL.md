@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-vault-ops
 description: "Operaciones seguras sobre un vault de Obsidian: buscar, leer, escribir, mover y validar sin romper enlaces. Incluye patrones para evitar alucinaciones."
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-reading-guardrails
 description: "Garantiza lectura real, control de limites, registro en cache y validacion de citas/wikilinks en Obsidian."
 ---
