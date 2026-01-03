@@ -1,6 +1,6 @@
----
+﻿---
 name: obsidian-recurring-expenses
-description: Identifica y registra gastos recurrentes desde correos y adjuntos con validacion estricta y trazabilidad.
+description: "Identifica y registra gastos recurrentes desde correos y adjuntos con validacion estricta y trazabilidad."
 ---
 # Obsidian Recurring Expenses
 
@@ -37,3 +37,4 @@ description: Identifica y registra gastos recurrentes desde correos y adjuntos c
 ## Entrega
 - Tabla actualizada y referencias verificables.
 - Resumen de cambios y fuentes usadas.
+

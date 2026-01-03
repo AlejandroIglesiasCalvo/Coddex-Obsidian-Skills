@@ -1,6 +1,6 @@
----
+﻿---
 name: obsidian-rag-ops
-description: Ejecuta flujos RAG en Obsidian para responder, resumir, reorganizar o crear notas nuevas con citas trazables.
+description: "Ejecuta flujos RAG en Obsidian para responder, resumir, reorganizar o crear notas nuevas con citas trazables."
 ---
 # Obsidian RAG Ops
 
@@ -30,9 +30,10 @@ description: Ejecuta flujos RAG en Obsidian para responder, resumir, reorganizar
 - **Reorganizar**: propongo cambios en forma de diff; no aplico sin solicitud explicita.
 - **Nueva nota**:
   - Creo un esqueleto en la ruta indicada.
-  - A�ado frontmatter minimo si aplica.
+  - Añado frontmatter minimo si aplica.
   - Incluyo "Creado el: YYYY-MM-DD HH:mm" y fuentes internas.
 
 ## Entrega
 - Resumen de acciones y rutas leidas.
 - Bloque de **Fuentes internas** verificables.
+

@@ -1,6 +1,6 @@
----
+﻿---
 name: obsidian-facet-selection
-description: Selecciona una faceta de trabajo segun la peticion y registra la decision con fuentes.
+description: "Selecciona una faceta de trabajo segun la peticion y registra la decision con fuentes."
 ---
 # Obsidian Facet Selection
 
@@ -15,3 +15,4 @@ description: Selecciona una faceta de trabajo segun la peticion y registra la de
 ## Entrega
 - Faceta elegida y razon breve.
 - Rutas y fuentes internas leidas.
+

@@ -1,6 +1,6 @@
----
+﻿---
 name: obsidian-daily-ai-summaries
-description: Genera o actualiza "Resumen IA" en notas diarias con lectura completa y citas internas.
+description: "Genera o actualiza \"Resumen IA\" en notas diarias con lectura completa y citas internas."
 ---
 # Obsidian Daily AI Summaries
 
@@ -19,3 +19,4 @@ description: Genera o actualiza "Resumen IA" en notas diarias con lectura comple
 
 ## Entrega
 - Resumen IA con fuentes internas verificables.
+

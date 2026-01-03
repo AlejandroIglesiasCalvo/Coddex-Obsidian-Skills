@@ -1,6 +1,6 @@
----
+﻿---
 name: obsidian-session-close
-description: Cierra una sesion dejando resumen, pendientes y mejoras con trazabilidad.
+description: "Cierra una sesion dejando resumen, pendientes y mejoras con trazabilidad."
 ---
 # Obsidian Session Close
 
@@ -16,3 +16,4 @@ description: Cierra una sesion dejando resumen, pendientes y mejoras con trazabi
 
 ## Entrega
 - Nota de cierre clara y accionable.
+

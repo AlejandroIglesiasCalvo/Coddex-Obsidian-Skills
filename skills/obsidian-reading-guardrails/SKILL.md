@@ -1,6 +1,6 @@
----
+﻿---
 name: obsidian-reading-guardrails
-description: Garantiza lectura real, control de limites, registro en cache y validacion de citas/wikilinks en Obsidian.
+description: "Garantiza lectura real, control de limites, registro en cache y validacion de citas/wikilinks en Obsidian."
 ---
 # Obsidian Reading Guardrails
 
@@ -46,3 +46,4 @@ description: Garantiza lectura real, control de limites, registro en cache y val
 ## Entrega
 - Incluyo una seccion **Fuentes internas** con wikilinks precisos.
 - Si falta lectura, detengo la entrega y declaro "no consta en la boveda".
+

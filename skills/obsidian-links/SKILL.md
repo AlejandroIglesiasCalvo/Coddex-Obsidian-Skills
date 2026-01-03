@@ -1,24 +1,24 @@
----
+﻿---
 name: obsidian-links
-description: Crear, validar y reparar wikilinks de Obsidian (links internos, enlaces a secciones, anclas ^bloque). Incluye verificación de existencia.
+description: "Crear, validar y reparar wikilinks de Obsidian (links internos, enlaces a secciones, anclas ^bloque). Incluye verificaciÃ³n de existencia."
 ---
 
 # Obsidian Links
 
-## Cuándo usar
+## CuÃ¡ndo usar
 - Crear enlaces `[[Nota]]`, `[[Nota|Alias]]`
-- Enlaces a secciones `[[Nota#Sección]]`
+- Enlaces a secciones `[[Nota#SecciÃ³n]]`
 - Enlaces a bloques `[[Nota#^ancla]]`
-- Auditoría y reparación de enlaces rotos
+- AuditorÃ­a y reparaciÃ³n de enlaces rotos
 
 ## Reglas
 - Preferir **alias** legibles cuando el enlace aparece en texto.
-- Para trazabilidad, preferir el nivel de precisión:
-  1) bloque `#^ancla`  2) sección `#Sección`  3) nota
+- Para trazabilidad, preferir el nivel de precisiÃ³n:
+  1) bloque `#^ancla`  2) secciÃ³n `#SecciÃ³n`  3) nota
 
 ## Procedimiento
 1. Localiza el destino (archivo real) y confirma que existe.
-2. Si enlazas a sección: confirma encabezado exacto.
+2. Si enlazas a secciÃ³n: confirma encabezado exacto.
 3. Si enlazas a bloque: confirma ancla `^...` existente.
 4. Normaliza:
    - sin hashtags en tags de YAML
@@ -26,6 +26,7 @@ description: Crear, validar y reparar wikilinks de Obsidian (links internos, enl
 
 ## Checklist
 - [ ] El archivo objetivo existe
-- [ ] La sección/ancla existe (si aplica)
-- [ ] No se han creado enlaces “fantasma”
+- [ ] La secciÃ³n/ancla existe (si aplica)
+- [ ] No se han creado enlaces â€œfantasmaâ€
+
 

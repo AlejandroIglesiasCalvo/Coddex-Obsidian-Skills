@@ -1,6 +1,6 @@
----
+﻿---
 name: obsidian-analysis-pipeline
-description: Orquesta analisis semantico del vault (conceptos, grafo, embeddings y busqueda) con procesamiento por lotes y manejo de errores.
+description: "Orquesta analisis semantico del vault (conceptos, grafo, embeddings y busqueda) con procesamiento por lotes y manejo de errores."
 ---
 # Obsidian Analysis Pipeline
 
@@ -36,3 +36,4 @@ description: Orquesta analisis semantico del vault (conceptos, grafo, embeddings
 ## Entrega
 - Resumen del estado (archivos procesados, fallidos, tiempo estimado).
 - Archivos JSON generados/actualizados y validacion basica.
+
