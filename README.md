@@ -33,3 +33,4 @@ Copia las carpetas de `skills/` a:
 - `obsidian-style-profile`: Analiza el estilo de escritura del usuario y genera un perfil con métricas y ejemplos citados.
 - `obsidian-task-ops`: Gestionar tareas en notas Markdown de Obsidian (captura, inbox, priorización, daily/weekly).
 - `obsidian-vault-ops`: Operaciones seguras sobre un vault de Obsidian: buscar, leer, escribir, mover y validar sin romper enlaces.
+- `obsidian-dispatch`: Skill router para Codex CLI que ofrece un acceso rápido con `$obsidian-dispatch: <instrucción>` y permite redirigir peticiones comunes.
